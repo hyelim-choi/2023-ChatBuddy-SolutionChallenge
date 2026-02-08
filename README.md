@@ -5,13 +5,6 @@
 
 # CHATBuddy란?
 
-UN의 17가지 지속 가능한 개발 목표 중
-
-- **Good Health & Wellbeing**
-- **Peace, Justice & Strong Institutions**
-
-을 목표로 한, 팀 `ChatBud`에서 `GDSC Solution Challenge`에 참여해 개발한 마음의 우울감을 없애주기 위한 친구같은 AI 채팅 서비스입니다. 💟
-
 ChatBuddy는 정신건강 서포터로서 당신의 정신건강을 책임집니다.  
 나의 상황, 감정을 누군가에게 부담없이 털어놓고 싶을 때 ChatBuddy를 찾아주세요.  
 평범한 일상의 대화를 통해 불안의 원인을 파악하고, 데일리 솔루션을 받을 수 있어요.
@@ -36,7 +29,13 @@ ChatBuddy는 정신건강 서포터로서 당신의 정신건강을 책임집니
 > GDSC SWU는 Google Developers가 후원하는 서울여자대학교 학생 개발자들을 위한 대학생 커뮤니티 그룹입니다.  
 > 현실에서 마주하는 사회 문제의 해결 방안을 제시함으로써 사회에 긍정적인 영향을 미치는 개발자 커뮤니티가 GDSC SWU의 비전입니다.
 >
-> 그리고 GDSC 솔루션 챌린지는 UN의 17가지 지속 가능한 개발 목표는 중 하나를 선택하여 해결하는 글로벌 규모의 컨테스트입니다! 🤩
+> 그리고 GDSC 솔루션 챌린지는 UN의 17가지 지속 가능한 개발 목표는 중 하나를 선택하여 해결하는 글로벌 규모의 컨테스트입니다!
+> UN의 17가지 지속 가능한 개발 목표 중 <br/>
+> **Good Health & Wellbeing** <br/>
+> **Peace, Justice & Strong Institutions** <br/>
+>
+> 을 목표로 한, 팀 `ChatBud`에서 `GDSC Solution Challenge`에 참여해 개발한 마음의 우울감을 없애주기 위한 친구같은 AI 채팅 서비스입니다.
+
 
 ---
 
@@ -82,7 +81,8 @@ ChatBuddy는 정신건강 서포터로서 당신의 정신건강을 책임집니
 ### Chu-ddy 츄디 <br/>
 <img src = "https://user-images.githubusercontent.com/68999618/227910711-3289e617-a6c0-4b87-b770-a48b2e3aaf61.png" width="10%" height="10%">
 
-안녕하세요! 츄디예요.😶 츄디는 여러분들을 위한 `걱정인형`이에요. 불안함과 걱정 때문에 밤새 뒤척인 적이 있으신가요? 걱정인형은 잠들기 전 걱정을 들려주고 베개 밑에 두면 이 인형이 걱정을 가져가 밤새 뒤척이지 않고 잘 수 있다는 과테말라의 전설에서 유래했습니다. 츄디가 여러분의 `걱정인형`이 되어 모든 불안과 우울을 가져가 줄게요! 여러분의 생각과 고민들을 들려주세요. <br/> <br/>
+안녕하세요! 츄디예요 :)  <br/>
+츄디는 여러분들을 위한 `걱정인형`이에요. 불안함과 걱정 때문에 밤새 뒤척인 적이 있으신가요? 걱정인형은 잠들기 전 걱정을 들려주고 베개 밑에 두면 이 인형이 걱정을 가져가 밤새 뒤척이지 않고 잘 수 있다는 과테말라의 전설에서 유래했습니다. 츄디가 여러분의 `걱정인형`이 되어 모든 불안과 우울을 가져가 줄게요! 여러분의 생각과 고민들을 들려주세요. <br/> <br/>
 
 ### 상세페이지
 **회원가입/로그인**  <br/>
@@ -113,7 +113,7 @@ ChatBuddy는 정신건강 서포터로서 당신의 정신건강을 책임집니
 [![thumbnail](https://user-images.githubusercontent.com/68415422/229873666-0d2a5e4a-936d-493d-a1be-5e50cf1ce293.JPG)](https://www.youtube.com/watch?v=Clnm2T3QIpY)
 
 ## Team members
-🧑‍💻 김정현(Jeong-Hyeon Kim) <br/>
-🧑‍💻 이정인(Jeong-In Lee) <br/>
-🧑‍💻 조예원(Ye-won Jo) <br/>
-🧑‍💻 최혜림(Hye-lim Choi) <br/>
+👩🏻‍💻 김정현(Jeong-Hyeon Kim) <br/> 
+👩🏻‍💻 이정인(Jeong-In Lee) <br/>
+👩🏻‍💻 조예원(Ye-won Jo) <br/>
+👩🏻‍💻 최혜림(Hye-lim Choi) <br/>
